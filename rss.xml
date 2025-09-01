@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Gaming Hub RSS Feed</title>
+  <link>https://example.com/</link>
+  <description>Latest articles and reviews from Gaming Hub</description>
+  <item>
+    <title>Review: Cyberpunk 2077 (2025 Edition)</title>
+    <link>https://example.com/posts/review-cyberpunk-2077.html</link>
+    <description>We revisit Night City with refreshed gameplay, AI enhancements and ray‑traced visuals…</description>
+  </item>
+  <!-- Add more items here -->
+</channel>
+</rss>
